@@ -1,0 +1,26 @@
+Karen
+jackson
+delete jackson
+frank
+Bob
+henry
+delete bob
+Lucas
+Isaac
+john
+delete frank
+MICHAEL
+jack
+alice
+delete john
+george
+Delete alice
+charlie
+delete jack
+albert
+eve
+david
+Delete eve
+jill
+jim
+delete jill
